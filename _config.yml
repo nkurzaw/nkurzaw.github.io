@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Into Uncertainty
 subtitle: "A blog about uncertainties of everyday life."
-email: blcentra@gmail.com
-name: Ben Centra
+email: ""
+name: Nils
 description: >
   A blog about uncertainties of everyday life.
 # Base URL of site (i.e. /blog). It should always start with a slash,
