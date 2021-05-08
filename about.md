@@ -6,7 +6,7 @@ main_nav: true
 ---
 
 Hi! I'm Nils, a computational biologist studying different aspects of small molecules and proteins in biological systems using large datasets. When I'm not doing research I like being outdoors. One of my favorite activities is rock climbing, but I also enjoy watching football (soccer).    
-Through my work as a researcher I get into contact with uncertainty a lot. When we find something peculiar in the lab, we want to make sure that what we see is not likely to be seen just by chance (many things are), thus we often try to quantify our (un)certainty in such results. These encounters brought me to think about uncertainty in our lives and how dealing with it can define us as persons.  
+Through my work as a researcher I get into contact with uncertainty a lot. When we find something peculiar in the lab, we want to make sure that what we see is not likely to be seen just by chance (many things in fact are). Thus, we often try to quantify our (un)certainty in such results. These encounters brought me to think about uncertainty in our lives and how dealing with it can define us as persons.  
 
 Views presented on this website are my own.
 
